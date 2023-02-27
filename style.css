@@ -1,0 +1,28 @@
+html {
+    line-height: 1.6;
+    font-family: 'Newsreader', serif;
+}
+body {
+    max-width: 756px;
+    margin: 0 auto;
+    font-size: 14pt;
+}
+
+ol {
+    list-style: none;
+    padding-left: 0;
+}
+
+ol li {
+    padding-left: 2em;
+}
+
+.line {
+    margin: 0;
+}
+
+.reference {
+    font-weight: 300;
+    font-size: 12pt;
+    margin-top: 14pt;
+}
