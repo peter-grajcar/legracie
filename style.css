@@ -20,6 +20,7 @@ ol li {
 
 .line {
     margin: 0;
+    text-align: justify;
 }
 
 .reference {
